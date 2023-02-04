@@ -1,0 +1,33 @@
+
+$ mkdir PAX
+$ cd PAX
+$ vi introduction.txt
+
+Bonjour mes petits renards, commencons une nouvelle aventure.
+Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les trois commandes precedentes.
+Je suis maintenant dans un editeur de texte, appele vi, et je commence a ecrire ces lignes.
+Je ne resterais pas longtemps sur vi, je passerais a d'autres outils de plus en plus sophistique au fur et a mesure de notre voyage. 
+
+La methode pour realiser l'aventure est de remplir des quetes et des sous-quetes. D'explorer le monde de la programmation informatique en realisant depuis le debut plusieurs projets concret qui conduisent a un projet unique que je nomme le projet Pax Fabrica. L'objectif est d'apprendre par le jeu. 
+J'ai deja une petite idee de la forme generale du projet, de sa destination, nous la decouvrirons ensemble en details au fur et a mesure. Mais si je ne dis pas tout maintenant c'est que pour moi toute l'importance dans cette aventure ne reside pas dans la destination mais dans le voyage que nous entreprendrons ensemble.
+
+Il y a plusieurs grand jalons a atteindre, disons pour pour le moment que sur une duree de plusieurs annees nous nous verrons construire depuis le tout debut, un framework web et une plateforme d'apprentissage a plusieurs, un ordinateur virtuel, de nombreux outils, de nombreux jeux et finalement realiser un ordinateur physique tout en decouvrant une histoire et des secrets. Mais comme je l'ai dit, rien ne presse d'arriver a la fin, alors respirons le grand air et profitons de ce beau voyage.      
+
+Commencons par le commencement:
+
+VOLUME 1: The PAX Framework
+===========================
+
+J'ai decouvert dans le grenier plusieurs cartons poussiereux avec de nombreuses lettres et papiers, des disquettes et un ordinateur. 
+Sur le carton il y a ecrit, PAX FABRICA 1972-1992. 
+
+Voici la premiere quete et quelques sous-quetes:
+A: Je souhaite te permettre de voir mes messages, alors faisons un site web simple qui affiche les lettres.
+1: Je souhaite comprendre un peu mieux comment fonctionne cet editeur de texte vi. 
+2: Je souhaite sauvegarder ce texte et les prochains quelques part, je vais decouvrir git.
+3: Je souhaite faire mon premier programme pour apprendre a afficher un texte sur un site web, decouvrons le language du projet Pax Fabrica, python.  
+
+note: Penser a faire une carte de voyage. 
+
+C'est tout pour aujourd'hui mes petits renards,
+Papa renard, le 4 fevrier 2023.
