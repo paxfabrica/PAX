@@ -1,0 +1,15 @@
+$ mkdir PAX
+$ cd PAX
+$ vi message
+
+^.^
+Cher petit renard,
+Ici commence notre aventure...
+
+Papa renard, le 1er janvier 2022.
+^.^
+
+$ mkdir 0
+$ cd 0
+$ vi message
+[...] voir 0/message

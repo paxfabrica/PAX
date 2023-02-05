@@ -1,5 +1,0 @@
-$ mkdir PAX
-$ mkdir PAX/0
-$ mkdir PAX/0/en
-$ cd PAX/0/en
-$ touch message.txt

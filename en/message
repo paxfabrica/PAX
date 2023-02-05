@@ -1,0 +1,15 @@
+$ mkdir PAX
+$ cd PAX
+$ vi message
+
+^.^
+Dear little fox,
+Here, our adventure begin...
+
+Papa fox, January 1, 2022.
+^.^
+
+$ mkdir 0
+$ cd 0
+$ vi message
+[...] goto 0/message

@@ -1,7 +1,5 @@
-$ vi introduction.txt
-
 ^.^
-Bonjour petits renards,
+Cher petit renard,
 Commencons une nouvelle aventure.
 Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les commandes precedentes.
 Je suis maintenant dans un editeur de texte, appele vi, et je commence a ecrire ces lignes.
@@ -33,11 +31,16 @@ Voici la premiere quete et quelques etapes pour commencer:
   b: Je souhaite comprendre un peu mieux comment fonctionne cet editeur de texte, vi. 
   c: Je souhaite faire mon premier programme pour apprendre a afficher un texte sur un site web, decouvrons python.  
 
-A bientot petits renards,
-Papa renard, le 4 fevrier 2023.
+A bientot petit renard,
+Papa renard, le 1 janvier 2022.
 ^.^
 
-$cd ../..
-$mkdir 1A1
-$cd 1A1
-$touch message.txt
+$ cd ..
+$ mkdir 1A1
+$ cd 1A1
+$ vi carte
+[...] voir 1A1/carte
+$ mkdir a
+$ cd a
+$ vi message
+[...] voir 1A1/a/message
