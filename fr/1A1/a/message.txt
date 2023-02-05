@@ -1,0 +1,34 @@
+$git init
+$git add .
+$git commit -m "Ici l'aventure commence"
+$git branch -M main
+$git remote add origin git@github.com:paxfabrica/PAX.git
+$git push -u origin main
+$mkdir 1A1
+
+Bonjour petits renards, une premiere lettre pour te dire que j'ai trouve comment sauvegarder tout ce que nous allons realiser ensemble.
+
+Je vais utiliser un repertoire git. J'ai utilise les commandes ci-dessus. J'ai aussi fais un premier tag pour signaler la premiere version du projet. Tu peux si tu le souhaites t'informer du fonctionnement de git mais ici je souhaites surtout de parler des versions du projet Pax Fabrica.
+
+x.x.x.x.x
+^ volume completed
+x.x.x.x.x
+  ^ chapter completed
+x.x.x.x.x
+    ^ quest completed
+x.x.x.x.x
+      ^ subquest completed
+x.x.x.x.x
+        ^ fix/update version
+
+Et parlons aussi des noms de fichier du journal.
+
+Ce fichier s'appel 1A11.txt, celui qui nous interresse c'est le code 1A11, nous avons besoin de la carte qui se trouve dans le fichier carte.txt pour le decoder.
+Ce fichier correspond a la sous-quete 'a' de la quete '1' du chapitre 'A' du volume '1' du projet Pax Fabrica, il s'agit de la lettre correspondante a ce code.
+
+Voila pour les codes a comprendre pour demarrer notre aventure et permettre de se reperer sur la carte alors que nous explorons.
+
+Ah, sur la carte tu verra le petit renard ^.^, cela veut simplement dire, quete accomplie!
+
+A bientot petits renards,
+Papa renard, le 4 fevrier 2023.

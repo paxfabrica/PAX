@@ -1,0 +1,43 @@
+$ vi introduction.txt
+
+^.^
+Bonjour petits renards,
+Commencons une nouvelle aventure.
+Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les commandes precedentes.
+Je suis maintenant dans un editeur de texte, appele vi, et je commence a ecrire ces lignes.
+Je ne resterais pas toujours sur vi, nous ecrirons notre propre editeur de texte. 
+
+La methode pour realiser l'aventure est de remplir des quetes et ses sous-quetes appele missions. 
+L'objectif est d'explorer le monde de l'informatique en realisant depuis le debut plusieurs projets concret qui conduisent a un projet unique que je nomme le projet Pax Fabrica. 
+L'objectif reel est d'apprendre par le jeu. 
+J'ai deja une petite idee de la forme generale du projet, de sa destination, nous la decouvrirons ensemble en details au fur et a mesure. 
+Mais si je ne dis pas tout maintenant c'est que pour moi toute l'importance dans cette aventure ne reside pas dans la destination mais dans le voyage que nous entreprendrons ensemble.
+
+Il y a plusieurs grand jalons a atteindre, disons pour pour le moment et que sur une duree de plusieurs annees nous nous verrons construire depuis le tout debut, un framework et une plateforme d'apprentissage en ligne, d'un ordinateur virtuel, de nombreux outils, de nombreux jeux et finalement nous terminerons avec la realisation d'un ordinateur physique tout en decouvrant tout le long l'histoire de cet ordinateur et de ses secrets.
+
+Mais comme je l'ai dit, rien ne presse d'arriver a la fin, alors respirons le grand air et profitons de ce beau voyage.      
+
+Commencons par le commencement:
+
+J'ai decouvert dans le grenier vingt cartons poussiereux avec des papiers et manuels de differentes formes, un grand nombre de disquettes et un ordinateur qui ne fonctionne plus. 
+Sur les cartons il y a ecrit, PAX FABRICA et un nombre, different pour chaque carton, des dates, de 1972 a 1992. Nous decouvrirons l'histoire derriere ces cartons progressivement.
+
+Avec ces cartons il y a un gros classeur qui semble plus recent portant l'etiquette BYTE, dedans il y'a 8 volumes ressemblant a une serie de livres de la meme collection. Ouvrons le premier et regardons le debut du sommaire.
+
+VOLUME 1: The PAX Framework
+CHAPITRE A: Un journal et une carte pour une aventure
+
+Voici la premiere quete et quelques etapes pour commencer:
+1: Je souhaite te permettre de voir mes messages, alors faisons un site web simple qui affiche mes messages.
+  a: Je souhaite sauvegarder ce texte et les prochains quelques part, je vais decouvrir git.
+  b: Je souhaite comprendre un peu mieux comment fonctionne cet editeur de texte, vi. 
+  c: Je souhaite faire mon premier programme pour apprendre a afficher un texte sur un site web, decouvrons python.  
+
+A bientot petits renards,
+Papa renard, le 4 fevrier 2023.
+^.^
+
+$cd ../..
+$mkdir 1A1
+$cd 1A1
+$touch message.txt

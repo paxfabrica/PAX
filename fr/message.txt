@@ -1,0 +1,8 @@
+$ mkdir PAX
+$ mkdir PAX/0
+$ cd PAX/0
+$ touch message.txt
+
+^.^
+Bonjour petits renards,
+Ici notre aventure commence...

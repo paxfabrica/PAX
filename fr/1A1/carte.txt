@@ -1,0 +1,11 @@
+$ vi carte.txt
+LA CARTE DU PROJET PAX FABRICA
+
+- INTRODUCTION 0: Ici commence notre aventure.
+
+- VOLUME 1: Le framework PAX
+  - CHAPITRE A: Un journal et une carte pour partir a l'aventure
+    - QUETE 1: Notre premier site web 
+      - MISSION a: Sauvegarder le projet avec git.
+      - MISSION b: S'initier un peu avec l'editeur de texte vi.
+      - MISSION c: Afficher du texte dans le navigateur internet avec python.
