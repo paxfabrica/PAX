@@ -3,7 +3,7 @@ Cher petit renard,
 Commencons une nouvelle aventure.
 Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les commandes precedentes.
 Je suis maintenant dans un editeur de texte, appele vi, et je commence a ecrire ces lignes.
-Je ne resterais pas toujours sur vi, nous ecrirons notre propre editeur de texte. 
+Je ne resterais pas toujours sur vi, un jour nous creerons notre propre editeur de texte. 
 
 La methode pour realiser l'aventure est de remplir des quetes et ses sous-quetes appele missions. 
 L'objectif est d'explorer le monde de l'informatique en realisant depuis le debut plusieurs projets concret qui conduisent a un projet unique que je nomme le projet Pax Fabrica. 
@@ -11,11 +11,11 @@ L'objectif reel est d'apprendre par le jeu.
 J'ai deja une petite idee de la forme generale du projet, de sa destination, nous la decouvrirons ensemble en details au fur et a mesure. 
 Mais si je ne dis pas tout maintenant c'est que pour moi toute l'importance dans cette aventure ne reside pas dans la destination mais dans le voyage que nous entreprendrons ensemble.
 
-Il y a plusieurs grand jalons a atteindre, disons pour pour le moment et que sur une duree de plusieurs annees nous nous verrons construire depuis le tout debut, un framework et une plateforme d'apprentissage en ligne, d'un ordinateur virtuel, de nombreux outils, de nombreux jeux et finalement nous terminerons avec la realisation d'un ordinateur physique tout en decouvrant tout le long l'histoire de cet ordinateur et de ses secrets.
+Il y a plusieurs grand jalons a atteindre, disons que pour le moment et que sur une duree de plusieurs annees nous nous verrons construire depuis le tout debut, un framework qui nous permettra de construire une plateforme d'apprentissage, d'un ordinateur virtuel et d'un language de programmation, de nombreux outils, de nombreux jeux et finalement nous terminerons avec la realisation d'un ordinateur physique tout en decouvrant tout le long l'histoire de cet ordinateur et de ses secrets.
 
 Mais comme je l'ai dit, rien ne presse d'arriver a la fin, alors respirons le grand air et profitons de ce beau voyage.      
 
-Commencons par le commencement:
+Commencons maintenant par le commencement:
 
 J'ai decouvert dans le grenier vingt cartons poussiereux avec des papiers et manuels de differentes formes, un grand nombre de disquettes et un ordinateur qui ne fonctionne plus. 
 Sur les cartons il y a ecrit, PAX FABRICA et un nombre, different pour chaque carton, des dates, de 1972 a 1992. Nous decouvrirons l'histoire derriere ces cartons progressivement.
