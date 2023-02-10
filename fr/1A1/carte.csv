@@ -1,0 +1,7 @@
+LA CARTE DU PROJET PAX FABRICA,,/
+INTRODUCTION 0, Ici commence notre aventure.,/0
+VOLUME 1,La maison PAX,/1A1
+CHAPITRE A,Un journal et une carte pour partir a l'aventure,/1A1
+QUETE 1,Un petit journal,/1A1
+MISSION a,Sauvegarder le projet avec git.:S'initier un peu avec l'editeur de texte vi.:Afficher du texte dans le navigateur internet avec python.:Mettre en ligne sur un serveur.,/1A1a
+MISSION b,

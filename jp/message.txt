@@ -1,0 +1,14 @@
+$ mkdir PAX
+$ cd PAX
+$ vi message.txt
+
+^.^
+こんにちは小さなキツネさん、
+私たちの冒険がここから始まります...
+
+キツネパパ、 2022年1月1日。
+^.^
+
+$ mkdir 0
+$ cd 0
+$ vi message.txt -> 0/message.txt

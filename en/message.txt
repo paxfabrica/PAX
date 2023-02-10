@@ -1,6 +1,6 @@
 $ mkdir PAX
 $ cd PAX
-$ vi message
+$ vi message.txt
 
 ^.^
 Dear little fox,
@@ -11,5 +11,4 @@ Papa fox, January 1, 2022.
 
 $ mkdir 0
 $ cd 0
-$ vi message
-[...] goto 0/message
+$ vi message.txt -> 0/message.txt
