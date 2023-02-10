@@ -22,7 +22,7 @@ Sur les cartons il y a ecrit, PAX FABRICA et un nombre, different pour chaque ca
 
 Avec ces cartons il y a un gros classeur qui semble plus recent portant l'etiquette BYTE, dedans il y'a 8 volumes ressemblant a une serie de livres de la meme collection. Ouvrons le premier et regardons le debut du sommaire.
 
-VOLUME 1: The PAX Framework
+VOLUME 1: La maison PAX
 CHAPITRE A: Un journal et une carte pour une aventure
 
 Voici la premiere quete et quelques etapes pour commencer:
@@ -38,9 +38,7 @@ Papa renard, le 1 janvier 2022.
 $ cd ..
 $ mkdir 1A1
 $ cd 1A1
-$ vi carte
-[...] voir 1A1/carte
+$ vi carte -> 1A1
 $ mkdir a
 $ cd a
-$ vi message
-[...] voir 1A1/a/message
+$ vi message.txt -> 1A1/a

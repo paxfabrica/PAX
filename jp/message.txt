@@ -11,4 +11,4 @@ $ vi message.txt
 
 $ mkdir 0
 $ cd 0
-$ vi message.txt -> 0/message.txt
+$ vi message.txt -> 0
