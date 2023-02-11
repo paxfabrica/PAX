@@ -1,19 +1,22 @@
+$ pwd -> /PAX/0
+
 ^.^
 Cher petit renard,
 Commencons une nouvelle aventure.
-Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les commandes precedentes.
-Je suis maintenant dans un editeur de texte, appele vi, et je commence a ecrire ces lignes.
-Je ne resterais pas toujours sur vi, un jour nous creerons notre propre editeur de texte. 
+Sur mon ordinateur, sur un systeme d'exploitation libre, j'ai ouvert un terminal et j'ai tape les commandes de la page precedentes.
+Je suis maintenant dans un editeur de texte, appele vi et j'ecris ces lignes.
 
-La methode pour realiser l'aventure est de remplir des quetes et ses sous-quetes appele missions. 
+Tu es libre de faire ce que tu veux, soit tu imite l'aventure depuis le debut avec l'editeur de ton choix, soit tu lit mes lettres et choisi le moment ou tu prendra le relais. C'est une aventure dont tu "peux" etre le hero, le moment et la methode t'appartienne.
+
+La methode que je vais utiliser pour tracer l'aventure est de remplir des quetes et ses sous-quetes appele missions. 
 L'objectif est d'explorer le monde de l'informatique en realisant depuis le debut plusieurs projets concret qui conduisent a un projet unique que je nomme le projet Pax Fabrica. 
-L'objectif reel est d'apprendre par le jeu. 
+L'objectif reel est d'apprendre par le jeu et l'exploration. 
 J'ai deja une petite idee de la forme generale du projet, de sa destination, nous la decouvrirons ensemble en details au fur et a mesure. 
 Mais si je ne dis pas tout maintenant c'est que pour moi toute l'importance dans cette aventure ne reside pas dans la destination mais dans le voyage que nous entreprendrons ensemble.
 
 Il y a plusieurs grand jalons a atteindre, disons que pour le moment et que sur une duree de plusieurs annees nous nous verrons construire depuis le tout debut, un framework qui nous permettra de construire une plateforme d'apprentissage, d'un ordinateur virtuel et d'un language de programmation, de nombreux outils, de nombreux jeux et finalement nous terminerons avec la realisation d'un ordinateur physique tout en decouvrant tout le long l'histoire de cet ordinateur et de ses secrets.
 
-Mais comme je l'ai dit, rien ne presse d'arriver a la fin, alors respirons le grand air et profitons de ce beau voyage.      
+Mais comme je l'ai dit, rien ne presse d'arriver a la fin, alors respirons le grand air et profitons de ce beau voyage. 
 
 Commencons maintenant par le commencement:
 
@@ -38,7 +41,7 @@ Papa renard, le 1 janvier 2022.
 $ cd ..
 $ mkdir 1A1
 $ cd 1A1
-$ vi carte -> 1A1
+$ vi carte.csv -> 1A1
 $ mkdir a
 $ cd a
 $ vi message.txt -> 1A1/a

@@ -11,4 +11,4 @@ Papa renard, le 1er janvier 2022.
 
 $ mkdir 0
 $ cd 0
-$ vi message.txt -> 0
+$ vi message.txt -> /PAX/0
